@@ -1,11 +1,11 @@
 # Keeper_ReactApp
-Personal Project (React JS based).
-• My Role : Frontend Developer.
-• Description : Keeper App is frontend web project which help user to add notes, delete notes with beautiful UI. Website build
+## Personal Project (React JS based).
+- My Role : Frontend Developer.
+- Description : Keeper App is frontend web project which help user to add notes, delete notes with beautiful UI. Website build
 using Material UI concepts.
-• Technologies used : Frontend (Html, CSS, JavaScript, React JS, Material UI)
+- Technologies used : Frontend (Html, CSS, JavaScript, React JS, Material UI)
 
-Check out the deployed version here : https://kaveriraut.github.io/Keeper_ReactApp/
+## Check out the deployed version here : https://kaveriraut.github.io/Keeper_ReactApp/
 
 
 <img width="960" alt="keeper" src="https://user-images.githubusercontent.com/97447480/194702297-29e26fff-b0b4-4955-93bf-30897408ddb6.png">
